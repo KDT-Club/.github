@@ -1,12 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=CLUB_HUB%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=200&section=header&text=CLUB%20HUB&fontColor=6495ED&desc=동아리%20관리%20플랫폼&descAlign=63.5&&descAlignY=75&fontSize=80)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
