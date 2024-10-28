@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=200&section=header&text=CLUB%20HUB&fontColor=6495ED&desc=대학%20동아리%20관리%20플랫폼&descAlign=61.5&&descAlignY=75&fontSize=80)
 
-## 🏃 프로젝트 목차
+## 🙋 프로젝트 목차
 
 + [프로젝트 개요](#-프로젝트-개요)
 + [프로젝트 기술 스택](#-프로젝트-기술-스택)
@@ -66,19 +66,21 @@
 
 ## 🔍 프로젝트 상세보기
 
-|||
+|<img src="https://github.com/user-attachments/assets/fa14f13d-2b81-4391-95fa-61e497a777c2">|<img src="https://github.com/user-attachments/assets/a120c009-055f-4cfc-abc3-e97acf0c7980">|
 | :--:| :--:| 
-| 로그인 회원가입 기능 | 여러 동아리 한눈에 확인 |
-|||
-| 커뮤니티 자유게시판 제공 | 동아리별 게시판 제공 |
+| 로그인 페이지(로그인,회원가입) | 메인 페이지(동아리 확인,검색) |
+|<img src="https://github.com/user-attachments/assets/2ae0cb45-35d5-4a93-a214-20cec5dda25b">|<img src="https://github.com/user-attachments/assets/4fe2c201-215d-415c-957e-13af0e65799a">|
+| 자유게시판 페이지(글작성,수정,삭제,좋아요) | 동아리 페이지(공지사항,동아리별 게시판) |
+|<img src="https://github.com/user-attachments/assets/1d37291b-bdee-401c-afb6-4e6273cbc02f">|<img src="https://github.com/user-attachments/assets/54855fde-0cf3-4525-812d-ecb84ccae00d">|
+| 동아리 페이지(회원확인,권한부여) | 프로필 페이지(정보수정,작성글보기,동아리만들기) |
 
 &nbsp;
 
 ## 🧰 ERD 설계 
-
+<img src="https://github.com/user-attachments/assets/8e1a4110-7712-4971-8eda-40a72c592a01">
 &nbsp;
 
 ## 🧑‍💻 팀원 소개
 | 이정훈 | 성진욱 | 서동준 | 신은섭 | 황서윤 | 원지윤 | 이다민 | 이정빈 |
 | :--:| :--:| :--:| :--:| :--:| :--:| :--:|:--:|
-
+|||||||
